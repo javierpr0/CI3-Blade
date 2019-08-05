@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends MY_Controller {
+class Inicio extends MY_Controller {
 
 	public function __construct()
 	{
@@ -16,6 +16,6 @@ class Welcome extends MY_Controller {
 	public function index()
 	{
 		$data['titulo'] = 'Mensaje de bienvenida';
- 		$this->view('inicio');
+ 		$this->view('inicio', $data);
 	}
 }
