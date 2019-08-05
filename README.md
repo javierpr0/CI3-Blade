@@ -39,7 +39,7 @@ _Transformas de:_
 </select>
 ```
 
-a
+a:
 
 ```
 <select class="form-control">  
@@ -77,7 +77,7 @@ _Realmente no es algo complicado y que llevara mucho tiempo hacerlo, aunque esta
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (### GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (### GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE) para detalles
 
 ## Gracias por tu Atención 🎁
 
