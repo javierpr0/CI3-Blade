@@ -65,8 +65,9 @@ El codigo se vuelve mas limpio y puedes hacer uso de todo lo que tiene blade.
   
 _Fue creado utilizando la base de Codeigniter con PHP Blade de Coolpraz que se encuentra en [Packagist](https://packagist.org)._  
   
-* [Codeigniter v3.1.10](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado  
+* [Codeigniter v3.1.11](https://codeigniter.com/user_guide/index.html) - El framework web usado  
 * [PHP Blade](https://packagist.org/packages/coolpraz/) - Paquete de PHP  
+* [Whoops](https://github.com/filp/whoops) - Error Handler Framework para PHP
   
 ## Autores ✒️  
   
